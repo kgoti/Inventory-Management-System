@@ -11,7 +11,7 @@ skills using React, Node.js, Express, and MongoDB.
 
 ## 🖥️ Live Demo
 
-🔗 [Live Demo][(https://your-live-link.com)][(https://inventory-management-system-1-k3ld.onrender.com/dashboard)](https://inventory-management-system-1-k3ld.onrender.com/dashboard)
+🔗 [Live Demo][(https://inventory-management-system-1-k3ld.onrender.com/dashboard)](https://inventory-management-system-1-k3ld.onrender.com/dashboard)
 
 > Frontend deployed on: Render  
 > Backend deployed on: Render  
